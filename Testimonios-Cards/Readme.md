@@ -5,8 +5,7 @@ Esta pagina es mi primera practica de FrontEndMentor
 pagina del reto: [https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-grid-section-JJd3KTQxt1](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-grid-section-JJd3KTQxt1)
 
 **Tecnologías Usadas en esta practica:**
-
-![Untitled](Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled.png =75x75)
+<img src="Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled.png" alt="html5" width="75"/>
 
 ![Untitled](Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%201.png)
 
