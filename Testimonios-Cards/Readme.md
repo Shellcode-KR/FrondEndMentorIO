@@ -6,16 +6,10 @@ pagina del reto: [https://www.frontendmentor.io/challenges/testimonials-grid-sec
 
 **Tecnologías Usadas en esta practica:**
 <img src="Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled.png" alt="html5" width="75"/>
-
-![Untitled](Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%201.png)
-
-![Untitled](Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%202.png)
-
-![Untitled](Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%203.png)
-
-![Untitled](Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%204.png)
-
-![Untitled](Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%205.png)
+<img src="Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%201.png" alt="css" width="75"/>
+<img src="Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%203.png" alt="bootstrap" width="75"/>
+<img src="Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%204.png" alt="sass" width="75"/>
+<img src="Testimonios%20Cards%20574607057c624d5e9b538e4e5603d9cc/Untitled%205.png" alt="purgecss" width="75"/>
 
 1. Distribución
 
